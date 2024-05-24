@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [""];
+const statusMessages = ["Bot Server Dini Store"];
 
 
 let currentIndex = 0;
