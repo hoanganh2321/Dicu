@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bot in Godez Community"];
+const statusMessages = ["Bot in Godez Community","https://shopswgcenter.shop/"];
 
 
 let currentIndex = 0;
